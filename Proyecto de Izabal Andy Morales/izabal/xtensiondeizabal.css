@@ -1,0 +1,24 @@
+body {
+    background-image: url('fondodeizaal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ecf0f1;
+}
+
+.titulo {
+    color: #FF6347;
+    text-align: center;
+    border: 10px double #F39C12; 
+    padding: 10px;
+    background-color: rgba(52, 152, 219, 0.7);
+    font-family: 'Arial', sans-serif;
+}
+
+.texto {
+    text-align: center;
+    margin: 20px;
+    border: 2px solid #16A085;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #ecf0f1; 
+}

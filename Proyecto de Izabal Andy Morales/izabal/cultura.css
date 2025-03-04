@@ -1,0 +1,35 @@
+body {
+    background-image: url("fondodeizabal.jpg");
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+.titulo {
+    color: #FF5733;
+    text-align: center;
+    border: 10px double #FFC300;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    font-family: 'Arial', sans-serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.texto {
+    text-align: justify;
+    margin: 30px auto;
+    width: 80%;
+    border: 2px solid #1ABC9C; /* Color verde-azul para los bordes */
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro con transparencia */
+    color: #ecf0f1;
+}
+
+/* Centrado de imagen */
+.imagenes {
+    text-align: center;
+    margin: 20px auto;
+}
+

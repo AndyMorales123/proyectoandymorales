@@ -1,0 +1,28 @@
+body {
+    background-image: url('izabal.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #EAEDED;
+}
+
+.titulo {
+    color: #FFA500;
+    font-size: 50px;
+}
+
+.texto {
+    background-color: rgba(34, 139, 34, 0.8);
+    font-size: 60px;
+    padding: 60px;
+    border-radius: px;
+    display: inline-block;
+}
+
+.links a {
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    color: #FF6347;
+}
+
